@@ -1,4 +1,4 @@
-# Password Generator
+# PyPassword Generator
 
 A simple Python password generator that creates secure, randomized passwords with customizable character types and lengths.
 
